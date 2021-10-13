@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/internet-shop/static/js/main.ce4b3bdc.chunk.js",
+    "main.js.map": "/internet-shop/static/js/main.ce4b3bdc.chunk.js.map",
+    "runtime-main.js": "/internet-shop/static/js/runtime-main.a105814d.js",
+    "runtime-main.js.map": "/internet-shop/static/js/runtime-main.a105814d.js.map",
+    "static/js/2.728b8a27.chunk.js": "/internet-shop/static/js/2.728b8a27.chunk.js",
+    "static/js/2.728b8a27.chunk.js.map": "/internet-shop/static/js/2.728b8a27.chunk.js.map",
+    "index.html": "/internet-shop/index.html",
+    "static/js/2.728b8a27.chunk.js.LICENSE.txt": "/internet-shop/static/js/2.728b8a27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a105814d.js",
+    "static/js/2.728b8a27.chunk.js",
+    "static/js/main.ce4b3bdc.chunk.js"
+  ]
+}
